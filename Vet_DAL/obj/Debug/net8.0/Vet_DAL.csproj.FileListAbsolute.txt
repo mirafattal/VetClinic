@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\bin\Debug\net8.0\Vet_DAL.deps.json
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\bin\Debug\net8.0\Vet_DAL.runtimeconfig.json
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\bin\Debug\net8.0\Vet_DAL.dll
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\bin\Debug\net8.0\Vet_DAL.pdb
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\Vet_DAL.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\Vet_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\Vet_DAL.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\Vet_DAL.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\Vet_DAL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\Vet_DAL.dll
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\refint\Vet_DAL.dll
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\Vet_DAL.pdb
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\Vet_DAL.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_DAL\obj\Debug\net8.0\ref\Vet_DAL.dll
