@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\bin\Debug\net8.0\Vet_BLL.deps.json
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\bin\Debug\net8.0\Vet_BLL.runtimeconfig.json
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\bin\Debug\net8.0\Vet_BLL.dll
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\bin\Debug\net8.0\Vet_BLL.pdb
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\bin\Debug\net8.0\Vet_DAL.dll
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\bin\Debug\net8.0\Vet_DAL.pdb
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.csproj.Up2Date
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.dll
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\refint\Vet_BLL.dll
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.pdb
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\Vet_BLL.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Veterinary\Backend\Vet_BLL\obj\Debug\net8.0\ref\Vet_BLL.dll
